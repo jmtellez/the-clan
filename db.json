@@ -1,5 +1,5 @@
 {
- "boyz": [
+ "boyz":[
   {
     id: 24,
     name: 'Juan',
@@ -27,7 +27,7 @@
 
   },
   {
-    id: 6,
+    id: 18,
     name: 'Alvaro',
     username: 'Voidrider'
   },
@@ -40,5 +40,6 @@
     id: 11,
     name: 'Jesus',
     username: 'HeyZeus'
-  }]
+  }
+]
 }
