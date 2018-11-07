@@ -1,45 +1,40 @@
-{
- "boyz":[
-  {
-    id: 24,
-    name: 'Juan',
-    username: 'jmt3559'
-  },
-  {
-    id: 2,
-    name: 'Dustin',
-    username: 'dramsey'
-  },
-  {
-    id: 'n',
-    name: 'Samuel',
-    username: 'Samustache'
-  },
-  {
-    id: 69,
-    name: 'Emanuel',
-    username: 'Marquis of Death'
-  },
-  {
-    id: 12,
-    name: 'Mario',
-    username: 'Rismia'
-
-  },
-  {
-    id: 18,
-    name: 'Alvaro',
-    username: 'Voidrider'
-  },
-  {
-    id: 32,
-    name: 'Mikey',
-    username: 'Fuegopapi'
-  },
-  {
-    id: 11,
-    name: 'Jesus',
-    username: 'HeyZeus'
-  }
-]
+{  
+   id:24,
+   name:'Juan',
+   username:'jmt3559'
+},
+{  
+   id:2,
+   name:'Dustin',
+   username:'dramsey'
+},
+{  
+   id:'n',
+   name:'Samuel',
+   username:'Samustache'
+},
+{  
+   id:69,
+   name:'Emanuel',
+   username:'Marquis of Death'
+},
+{  
+   id:12,
+   name:'Mario',
+   username:'Rismia'
+},
+{  
+   id:6,
+   name:'Alvaro',
+   username:'Voidrider'
+},
+{  
+   id:32,
+   name:'Mikey',
+   username:'Fuegopapi'
+},
+{  
+   id:11,
+   name:'Jesus',
+   username:'HeyZeus'
 }
